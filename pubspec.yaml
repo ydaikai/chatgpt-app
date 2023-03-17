@@ -39,6 +39,8 @@ dependencies:
   flutter_dotenv: ^5.0.0
   intl: 
   flutter_markdown: 
+  flutter_spinkit:
+  google_mobile_ads: ^1.2.0
 
 dev_dependencies:
   flutter_test:
